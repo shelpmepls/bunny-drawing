@@ -93,3 +93,24 @@
     border-radius:50%;
     transform:rotate(-10deg);
 }
+.bunny-right-inner-ear{
+    position:absolute;
+    top:-70px;
+    left:130px;
+    background-color:#a268a8;
+    height:100px;
+    width:30px;
+    border-radius:40%;
+    transform:rotate(10deg);
+    
+}
+.bunny-left-inner-ear{
+    position:absolute;
+    top:-70px;
+    left:10px;
+    background-color:#a268a8;
+    height:100px;
+    width:30px;
+    border-radius:40%;
+    transform:rotate(-10deg);
+}
