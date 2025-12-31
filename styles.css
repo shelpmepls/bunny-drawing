@@ -3,7 +3,7 @@
 }
 .bunny-head{
     position:absolute;
-    background:linear-gradient(#fabdff 85%, #b87bbd 100%);
+    background:linear-gradient(#fabdff 85%, #bf8bc4 100%);
     border:1px solid #b87bbd;
     height:200px;
     width:200px;
@@ -34,7 +34,6 @@
     background-color:#fabdff;
     height:150px;
     width:50px;
-    border:1px solid #b87bbd;
     border-radius:40%;
     transform:rotate(10deg);
     z-index:0;
