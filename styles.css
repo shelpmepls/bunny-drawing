@@ -118,17 +118,19 @@
     width:30px;
     height:50px;
     border:2px solid #000;
-    border-radius:50%/10px 150px 0 0;
+    border-radius:60%/10px 10px 0 0;
     border-color: black transparent transparent transparent;
 }
 
 .bunny-left-mouth{
-    top:200px;
+    position:absolute;
+    bottom:200px;
     left:50px;
     transform:rotate(-45deg);
 }
 .bunny-right-mouth{
-    top:200px;
+    position:absolute;
+    bottom:200px;
     left:150px;
     transform:rotate(45deg);
 }
