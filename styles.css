@@ -63,9 +63,15 @@
 .bunny-nose{
     position:absolute;
     width:20px;
-    border-radius:20%;
+    border-bottom-left-radius:5%;
+    border-bottom-right-radius:5%;
     height:10px;
     background:linear-gradient(#d3c08b,#b29e69);
+    bottom:0;
+    left:0;
+    top:0;
+    right:0;
+    margin:auto;
 }
 .bunny-right-inner-eye{
     position:absolute;
