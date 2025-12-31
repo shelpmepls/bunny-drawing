@@ -1,8 +1,13 @@
 .bunny-head{
     position:relative;
     background-color:#fabdff;
+    border:1px solid black;
+    height:200px;
+    width:200px;
+    border-radius:50px;
 }
 
 .bunny-left-ear,.bunny-right-ear,.bunny-left-inner-ear,.bunny-right-inner-ear,.bunny-nose{
     position:relative;
+    border:1px solid black;
 }
