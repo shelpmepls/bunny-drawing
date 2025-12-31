@@ -63,13 +63,13 @@
 .bunny-nose{
     position:absolute;
     width:20px;
-    border-bottom-left-radius:5%;
-    border-bottom-right-radius:5%;
+    border-bottom-left-radius:40%;
+    border-bottom-right-radius:40%;
     height:10px;
-    background:linear-gradient(#d3c08b,#b29e69);
+    background:linear-gradient(#f0dba0,#c29f43);
     bottom:0;
     left:0;
-    top:0;
+    top:40px;
     right:0;
     margin:auto;
 }
