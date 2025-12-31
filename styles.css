@@ -1,5 +1,5 @@
 .bunny-head{
-    position:relative;
+    position:absolute;
     background-color:#fabdff;
     border:1px solid #b87bbd;
     height:200px;
@@ -35,10 +35,14 @@
     top:-60px;
     left:-60px;
     background-color:#000;
+    width:45px;
+    height:70px;
 }
 .bunny-right-eye{
     position:absolute;
     top:-60px;
     left:-100px;
     background-color:#000;
+    width:45px;
+    height:70px;
 }
