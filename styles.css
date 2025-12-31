@@ -13,6 +13,7 @@
     right:0;
     bottom:0;
     margin:auto;
+    z-index:1;
 }
 .bunny-left-ear{
     position:absolute;
@@ -21,12 +22,9 @@
     background-color:#fabdff;
     height:150px;
     width:50px;
-    border-left:20px solid transparent;
-    border-right:20px solid transparent;
-    border-bottom:20px solid #fabdff;
     border-radius:40%;
     transform:rotate(-10deg);
-    z-index:1;
+    z-index:0;
 }
 
 .bunny-right-ear{
@@ -39,7 +37,7 @@
     border:1px solid #b87bbd;
     border-radius:40%;
     transform:rotate(10deg);
-    z-index:-1;
+    z-index:0;
 }
 .bunny-left-eye{
     position:absolute;
