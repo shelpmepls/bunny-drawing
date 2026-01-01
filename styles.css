@@ -79,7 +79,7 @@
     width:10px;
     height:20px;
     border-radius:50%;
-    transform:rotate(10deg);
+    transform:rotate(-20deg);
 }
 .bunny-left-inner-eye{
     position:absolute;
@@ -89,7 +89,7 @@
     width:10px;
     height:20px;
     border-radius:50%;
-    transform:rotate(-10deg);
+    transform:rotate(20deg);
     z-index:0;
 }
 .bunny-right-inner-ear{
