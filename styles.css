@@ -135,3 +135,30 @@
     left:100px;
     transform:rotate(180deg);
 }
+
+.bunny-left-whiskers div{
+    background-color:#9e599b;
+    width:60px;
+    height:80px;
+}
+.bunny-right-whiskers div{
+    background-color:#9e599b;
+    width:60px;
+    height:80px;
+
+}
+.bunny-left-top-whisker{
+    position:absolute;
+    top:100px;
+    left:50px;
+}
+.bunny-left-middle-whisker{
+    position:absolute;
+    top:100px;
+    left:50px;
+}
+.bunny-left-bottom-whisker{
+    position:absolute;
+    top:100px;
+    left:50px;
+}
