@@ -61,9 +61,9 @@
 .bunny-nose{
     position:absolute;
     width:20px;
-    border-bottom-left-radius:40%;
-    border-bottom-right-radius:40%;
-    height:10px;
+    border-bottom-left-radius:60%;
+    border-bottom-right-radius:60%;
+    height:15px;
     background:linear-gradient(#e495e1,#9e599b);
     bottom:0;
     left:0;
@@ -150,13 +150,13 @@
     position:absolute;
     bottom:85px;
     left:50px;
-    transform:rotate(-10deg);
+    transform:rotate(10deg);
 }
 .bunny-left-middle-whisker{
     position:absolute;
     bottom:75px;
     left:50px;
-    transform:rotate(-8deg);
+    transform:rotate(8deg);
 }
 .bunny-left-bottom-whisker{
     position:absolute;
@@ -167,18 +167,18 @@
 .bunny-right-top-whisker{
     position:absolute;
     bottom:85px;
-    left:150px;
-    transform:rotate(10deg);
+    left:115px;
+    transform:rotate(-10deg);
 }
 .bunny-right-middle-whisker{
     position:absolute;
     bottom:75px;
-    left:150px;
-    transform:rotate(8deg);
+    left:115px;
+    transform:rotate(-8deg);
 }
 .bunny-right-bottom-whisker{
     position:absolute;
     bottom:65px;
-    left:150px;
+    left:115px;
     transform:rotate(6deg);
 }
