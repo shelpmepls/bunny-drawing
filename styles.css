@@ -138,27 +138,47 @@
 
 .bunny-left-whiskers div{
     background-color:#9e599b;
-    width:60px;
-    height:80px;
+    width:35px;
+    height:1px;
 }
 .bunny-right-whiskers div{
     background-color:#9e599b;
-    width:60px;
-    height:80px;
-
+    width:35px;
+    height:1px;
 }
 .bunny-left-top-whisker{
     position:absolute;
-    top:100px;
+    bottom:85px;
     left:50px;
+    transform:rotate(-10deg);
 }
 .bunny-left-middle-whisker{
     position:absolute;
-    top:100px;
+    bottom:75px;
     left:50px;
+    transform:rotate(-8deg);
 }
 .bunny-left-bottom-whisker{
     position:absolute;
-    top:100px;
+    bottom:65px;
     left:50px;
+    transform:rotate(-6deg);
+}
+.bunny-right-top-whisker{
+    position:absolute;
+    bottom:85px;
+    left:150px;
+    transform:rotate(10deg);
+}
+.bunny-right-middle-whisker{
+    position:absolute;
+    bottom:75px;
+    left:150px;
+    transform:rotate(8deg);
+}
+.bunny-right-bottom-whisker{
+    position:absolute;
+    bottom:65px;
+    left:150px;
+    transform:rotate(6deg);
 }
